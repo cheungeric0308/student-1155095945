@@ -23,8 +23,8 @@ S/W  | H/W and S/W
 OS | MCU
 "# student-1155095945" 
 
-![screen cap](C:\Users\Doris\Documents\GitHub\repo\sc0.jpeg)
+![screen cap](https://github.com/csci3250-2019/student-1155095945/blob/master/sc0.jpg)
 
-![screen cap](C:\Users\Doris\Documents\GitHub\repo\sc1.jpeg)
+![screen cap](https://github.com/csci3250-2019/student-1155095945/blob/master/sc1.jpg)
 
-![screen cap](C:\Users\Doris\Documents\GitHub\repo\sc2.jpeg)
+![screen cap](https://github.com/csci3250-2019/student-1155095945/blob/master/sc2.jpg)
